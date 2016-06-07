@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6D1223C0BEF72238D8F150C3F9A6F0A10E4F8860",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6D1223C0BEF72238D8F150C3F9A6F0A10E4F8860" : 0,
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3B960198-DCB8-4063-849C-926B6F310C95",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6D1223C0BEF72238D8F150C3F9A6F0A10E4F8860" : "caesar-salad-ios-0616\/",
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CaesarCipher",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CaesarCipher.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/caesar-salad-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D1223C0BEF72238D8F150C3F9A6F0A10E4F8860"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    }
+  ]
+}
